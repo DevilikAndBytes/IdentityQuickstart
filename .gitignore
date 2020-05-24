@@ -133,4 +133,7 @@ $RECYCLE.BIN/
 #Rider
 .idea
 
+#VsCode
+#.vs
+
 _NCrunch*
